@@ -1,0 +1,162 @@
+[
+  {
+    "date": "2023-05-23",
+    "dow": "Tuesday",
+    "actual_revenue": 8455.0,
+    "expected_revenue": 3336.0,
+    "delta_revenue": 5119.0,
+    "delta_pct": 153.447242206235,
+    "score": 5.850135403726708,
+    "drivers": {
+      "txns": {
+        "actual": 9.0,
+        "baseline_mean": 2.898550724637681
+      },
+      "units": {
+        "actual": 29.0,
+        "baseline_mean": 7.28695652173913
+      },
+      "aov": {
+        "actual": 939.4444444444445,
+        "baseline_mean": 459.0737865194387
+      }
+    },
+    "top_category": {
+      "name": "Electronics",
+      "revenue": 5030.0,
+      "share": 0.5949142519219397
+    },
+    "notes": [
+      "Baseline expectations use a simple seasonal hierarchy (month+dow, then month, then dow).",
+      "Treat missing dates as unknown coverage (dataset includes only transaction-days)."
+    ]
+  },
+  {
+    "date": "2023-05-16",
+    "dow": "Tuesday",
+    "actual_revenue": 7260.0,
+    "expected_revenue": 3336.0,
+    "delta_revenue": 3924.0,
+    "delta_pct": 117.62589928057554,
+    "score": 4.515100207039338,
+    "drivers": {
+      "txns": {
+        "actual": 11.0,
+        "baseline_mean": 2.898550724637681
+      },
+      "units": {
+        "actual": 26.0,
+        "baseline_mean": 7.28695652173913
+      },
+      "aov": {
+        "actual": 660.0,
+        "baseline_mean": 459.0737865194387
+      }
+    },
+    "top_category": {
+      "name": "Electronics",
+      "revenue": 5100.0,
+      "share": 0.7024793388429752
+    },
+    "notes": [
+      "Baseline expectations use a simple seasonal hierarchy (month+dow, then month, then dow).",
+      "Treat missing dates as unknown coverage (dataset includes only transaction-days)."
+    ]
+  },
+  {
+    "date": "2023-06-24",
+    "dow": "Saturday",
+    "actual_revenue": 6220.0,
+    "expected_revenue": 2861.25,
+    "delta_revenue": 3358.75,
+    "delta_pct": 117.38750546089996,
+    "score": 3.8836118012422363,
+    "drivers": {
+      "txns": {
+        "actual": 5.0,
+        "baseline_mean": 2.898550724637681
+      },
+      "units": {
+        "actual": 19.0,
+        "baseline_mean": 7.28695652173913
+      },
+      "aov": {
+        "actual": 1244.0,
+        "baseline_mean": 459.0737865194387
+      }
+    },
+    "top_category": {
+      "name": "Electronics",
+      "revenue": 5200.0,
+      "share": 0.8360128617363344
+    },
+    "notes": [
+      "Baseline expectations use a simple seasonal hierarchy (month+dow, then month, then dow).",
+      "Treat missing dates as unknown coverage (dataset includes only transaction-days)."
+    ]
+  },
+  {
+    "date": "2023-02-01",
+    "dow": "Wednesday",
+    "actual_revenue": 4700.0,
+    "expected_revenue": 1808.3333333333333,
+    "delta_revenue": 2891.666666666667,
+    "delta_pct": 159.90783410138252,
+    "score": 3.361793650793651,
+    "drivers": {
+      "txns": {
+        "actual": 3.0,
+        "baseline_mean": 2.898550724637681
+      },
+      "units": {
+        "actual": 11.0,
+        "baseline_mean": 7.28695652173913
+      },
+      "aov": {
+        "actual": 1566.6666666666667,
+        "baseline_mean": 459.0737865194387
+      }
+    },
+    "top_category": {
+      "name": "Clothing",
+      "revenue": 3500.0,
+      "share": 0.7446808510638298
+    },
+    "notes": [
+      "Baseline expectations use a simple seasonal hierarchy (month+dow, then month, then dow).",
+      "Treat missing dates as unknown coverage (dataset includes only transaction-days)."
+    ]
+  },
+  {
+    "date": "2023-02-17",
+    "dow": "Friday",
+    "actual_revenue": 5890.0,
+    "expected_revenue": 3055.0,
+    "delta_revenue": 2835.0,
+    "delta_pct": 92.7986906710311,
+    "score": 3.2984865424430643,
+    "drivers": {
+      "txns": {
+        "actual": 6.0,
+        "baseline_mean": 2.898550724637681
+      },
+      "units": {
+        "actual": 21.0,
+        "baseline_mean": 7.28695652173913
+      },
+      "aov": {
+        "actual": 981.6666666666666,
+        "baseline_mean": 459.0737865194387
+      }
+    },
+    "top_category": {
+      "name": "Clothing",
+      "revenue": 2490.0,
+      "share": 0.4227504244482173
+    },
+    "notes": [
+      "Baseline expectations use a simple seasonal hierarchy (month+dow, then month, then dow).",
+      "Treat missing dates as unknown coverage (dataset includes only transaction-days)."
+    ]
+  }
+]

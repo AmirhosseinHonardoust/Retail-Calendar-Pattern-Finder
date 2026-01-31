@@ -1,0 +1,10 @@
+{
+  "n_rows": 1000,
+  "n_missing_any": 0,
+  "n_negative_quantity": 0,
+  "n_negative_price": 0,
+  "n_negative_total": 0,
+  "date_min": "2023-01-01",
+  "date_max": "2024-01-01",
+  "total_amount_mismatches": 0
+}
